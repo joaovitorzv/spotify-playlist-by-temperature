@@ -8,6 +8,14 @@ Create a playlist suggestion according to the current temperature.
   - If it's a bit chilly (between 10 and 14 degrees), suggest rock music tracks
   - Otherwise, if it's freezing outside, suggests classical music tracks
   
+## Routes
+
+|   Method             |Endpoint                          |Query parameters                         |
+|----------------|-------------------------------|-----------------------------|
+|GET|/playlist          |`City`=City name            |
+|GET          |/playlist/coordinates            |`Lat`=Latitute `Lon`=Longite            |
+  
+
 ### How to run it
 
 Get your spotify API key [Developers spotify](https://developer.spotify.com/) and your OpenWeatherMap API key [OpenWeatherMap](https://openweathermap.org/)
