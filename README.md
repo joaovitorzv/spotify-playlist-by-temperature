@@ -28,3 +28,5 @@ Install the dependencies and devDependencies and start the server.
 $ yarn install
 $ node src/index.js
 ```
+
+This project was based on Ifood backend challenge - Made with ❤️ by [João vitor oliveira](https://github.com/joaovitorzv)
