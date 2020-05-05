@@ -10,8 +10,7 @@ Create a playlist suggestion according to the current temperature.
   
 ### How to run it
 
-Get your spotify API key [Developers spotify](https://developer.spotify.com/)
-Get your OpenWeatherMap API key [OpenWeatherMap](https://openweathermap.org/)
+Get your spotify API key [Developers spotify](https://developer.spotify.com/) and your OpenWeatherMap API key [OpenWeatherMap](https://openweathermap.org/)
 
 set them on your `.env` file
 
