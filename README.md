@@ -12,8 +12,8 @@ Create a playlist suggestion according to the current temperature.
 
 |   Method             |Endpoint                          |Query parameters                         |
 |----------------|-------------------------------|-----------------------------|
-|GET|/playlist          |`City`=City name            |
-|GET          |/playlist/coordinates            |`Lat`=Latitute `Lon`=Longite            |
+|GET|/playlist          |`City`= city name            |
+|GET          |/playlist/coordinates            |`Lat`= latitute `Lon`= longitude            |
   
 
 ### How to run it
